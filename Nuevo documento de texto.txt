@@ -1,0 +1,26 @@
+<div class="juegosgratis">
+    Juegos online gratuitos
+    <ul>
+        <li><img src="" alt=""><a href=""></a> Fornite</li>
+        <li><img src="" alt=""><a href=""></a> Valorant</li>
+        <li><img src="" alt=""><a href=""></a> Rocket league</li>
+        <li><img src="" alt=""><a href=""></a> Overwach 2</li>
+        <li><img src="" alt=""><a href=""></a> Warframe</li>
+        <li><img src="" alt=""><a href=""></a> Warzone 2.0</li>
+        <li><img src="" alt=""><a href=""></a> Apex legend</li>
+        <li><img src="" alt=""><a href=""></a> League of legends</li>
+        <li><img src="" alt=""><a href=""></a> Genshin Impact</li>
+        <li><img src="" alt=""><a href=""></a> brawlhalla</li>
+        <li><img src="" alt=""><a href=""></a> Halo infinite</li>
+    </ul>
+</div>
+
+
+.inicio
+     {  display: flex;
+        justify-content:center;
+ width: 80rem; height: 25rem;
+
+}
+
+
