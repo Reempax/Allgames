@@ -47,8 +47,8 @@ h2 {
         padding: 0.9375em 0.3125em 0.9375em 0.3125em;
 }
 #juegos img{
-        width: 1em;    
-        height: 1em;
+        width: 25em;    
+        height: 10em;
         padding-bottom: 1em;
         transition-property: width;
         transition-duration: 2s;
@@ -81,12 +81,7 @@ h2 {
                 display: grid;
                 grid-template-columns: repeat(2, 1fr);
                 grid-auto-rows: 0.625em, auto;
-        }
-
-        #juegos img{
-                width: 100%;    
-                
-}        
+        }     
 }
 
 
@@ -105,10 +100,6 @@ h2 {
                 font-size: large;
                 font-weight: bold;
         }
-        #juegos img{
-                width: 100%;    
-               
-}
 }
         .video-contenedor{
         position: relative;
