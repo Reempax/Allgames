@@ -80,22 +80,23 @@ h2 {
 
 }
 
-@media(max-width:1140px) {
-    #cajas {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            grid-auto-rows: 0.625em, auto;
-    }
+@media(max-width:930px) {
+    #juegos img {
+        width: 30em;
+        height: 18em;
+        max-width: 40em;
+        transition-duration: 3s;
+}
 }
 
-
-@media(max-width:748px) {
-    #cajas {
-            display: grid;
-            grid-template-columns: repeat(1, 1fr);
-            grid-auto-rows: 0.625em, auto;
+@media(max-width:560px) {
+    #juegos img {
+        width: 20em;
+        height: 10em;
+        max-width: 21em;
+        transition-duration: 3s;
     }
-
+    
     #presentacion img {
             height: 11em;
             width: 100%;
